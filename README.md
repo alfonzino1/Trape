@@ -151,7 +151,7 @@ This development and others, the participants will be mentioned with name, Twitt
 
 * **CREATOR**
 
-  --- Jose Pino - [@jofpin](https://twitter.com/jofpin) - (**Security Researcher**) 
+  --- Alfonzino team - Telegram-https://t.me/bender2_9
  
 
 Happy hacking!
@@ -159,10 +159,7 @@ Happy hacking!
 I invite you, if you use this tool helps to share, collaborate. Let's make the Internet a safer place, let's report.
 
 
-## License
 
-The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
-
-Copyright, 2018 by [Jose Pino](https://twitter.com/jofpin) 
+Copyright, 2021 by Alfonzino team
 
 -------------
